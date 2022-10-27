@@ -104,7 +104,7 @@ a:hover {
 }
 .header-search-title {
   font-weight: 700;
-  color: #5a566a;
+  color: #fff;
   padding: 0.25rem 0;
 }
 
@@ -231,7 +231,7 @@ a:hover {
   background-color: transparent;
 }
 .home-page .app-brand-link {
-  color: #5a566a;
+  color: #fff;
   text-transform: capitalize;
 }
 
