@@ -1,0 +1,13 @@
+.home-page {
+	.header {
+		&-navbar-row {
+			background-color: transparent;
+		}
+	}
+	.app-brand {
+		&-link {
+			color: $white;
+			text-transform: capitalize;
+		}
+	}
+}

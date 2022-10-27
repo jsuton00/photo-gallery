@@ -1,0 +1,17 @@
+//Base
+@import './base/typography';
+@import './base/colours';
+@import './base/settings';
+@import './base/resets';
+@import './base/app';
+
+//Components
+@import './components/header';
+@import './components/search-bar';
+@import './components/photo-grid';
+@import './components/loader';
+@import './components/search-tags';
+
+//Pages
+@import './pages/home-page';
+@import './pages/search-page';

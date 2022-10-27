@@ -1,0 +1,13 @@
+.search-tags-row {
+	flex-wrap: wrap;
+	align-items: center;
+	gap: $spacing-base;
+	width: 100%;
+	padding: $spacing-base;
+}
+
+.search-tag-button {
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+}
